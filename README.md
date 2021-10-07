@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @canicemichael
+- 👋 Hi, I’m canice michael
 - 👀 I’m backend developer.
-- 🌱 I’m currently learning problem solving algorithms.
-- 💞️ I’m looking to collaborate with programmers to up my skill.
+- 💞️ I’m looking to collaborate with programmers to work on projects and up my skill.
 - 📫 Reach me on canicemichael@gmail.com..
 
 <!---
