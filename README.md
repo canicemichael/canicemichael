@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @canicemichael
-- 👀 I’m interested in backend.
+- 👀 I’m backend developer.
 - 🌱 I’m currently learning problem solving algorithms.
 - 💞️ I’m looking to collaborate with programmers to up my skill.
 - 📫 Reach me on canicemichael@gmail.com..
