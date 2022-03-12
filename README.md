@@ -1,6 +1,7 @@
-- 👋 Hi, I’m canice michael
-- 👀 I’m backend developer.
+- 👋 Hi, I’m Canice Ezugwu
+- 👀 I’m a Nodejs backend developer.
 - 💞️ I’m looking to collaborate with programmers to work on projects and up my skill.
+- 💞️ I'm also open to volunteer work.
 - 📫 Reach me on canicemichael@gmail.com..
 
 <!---
