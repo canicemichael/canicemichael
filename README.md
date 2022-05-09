@@ -8,7 +8,7 @@ I’m also looking to collaborate with programmers to work on projects and up my
 
 - 📫 Reach me on gmail ezugwuchukwuebukka@gmail.com
 - [My Portfolio](https://my-work-port.herokuapp.com/)
-- [Twitter](https://twitter.com/canicemike/)
+- [Twitter](https://twitter.com/CaniceEzugwu)
 - [LinkedIn](https://www.linkedin.com/in/canice-ezugwu-811322215/)
 <!---
 canicemichael/canicemichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
