@@ -7,7 +7,7 @@ I'm open to volunteer work. <br>
 I’m also looking to collaborate with programmers to work on projects and up my skill. <br>
 
 - 📫 Reach me on gmail ezugwuchukwuebukka@gmail.com
-- [My Portfolio](https://my-work-port.herokuapp.com/)
+- [My Portfolio](https://mikecanice.netlify.app/)
 - [Twitter](https://twitter.com/CaniceEzugwu)
 - [LinkedIn](https://www.linkedin.com/in/canice-ezugwu-811322215/)
 <!---
