@@ -7,7 +7,7 @@ I'm open to volunteer work. <br>
  <br>
 
 - 📫 Reach me on gmail ezugwuchukwuebukka@gmail.com
-- [My Portfolio](https://mikecanice.netlify.app/)
+- [My Portfolio](https://caniceezugwu.netlify.app/)
 - [Twitter](https://twitter.com/CaniceEzugwu)
 - [LinkedIn](https://www.linkedin.com/in/canice-ezugwu-811322215/)
 <!---
