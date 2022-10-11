@@ -1,10 +1,10 @@
 ![canice-git](https://user-images.githubusercontent.com/50200115/162418921-945a996d-02f1-4ca5-b122-907a3b7a8379.jpg)
 
 <h2>Hello, gorgeous! 👋</h2>
-I'm a backend web developer with a focus on the MERN stack. <br>
-I'm still exploring other technologies and frameworks that catch or requires my interest. <br>
+I'm a full-stack web developer, but that's not all. <br>
+I enjoy being challenged with innovative ideas that encourage collaborations for the development of functional web applications and efficient UX. <br>
 I'm open to volunteer work. <br>
-I’m also looking to collaborate with programmers to work on projects and up my skill. <br>
+ <br>
 
 - 📫 Reach me on gmail ezugwuchukwuebukka@gmail.com
 - [My Portfolio](https://mikecanice.netlify.app/)
